@@ -1,0 +1,86 @@
+[
+  {
+    "order_id": "ORD-12345",
+    "customer_name": "Alice Smith",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": "p_001",
+        "quantity": 1
+      },
+      {
+        "product_id": "p_008",
+        "quantity": 1
+      }
+    ],
+    "delivery_date": "2026-02-25"
+  },
+  {
+    "order_id": "ORD-999",
+    "customer_name": "Bob Jones",
+    "status": "processing",
+    "items": [
+      {
+        "product_id": "p_005",
+        "quantity": 1
+      }
+    ],
+    "delivery_date": null
+  },
+  {
+    "order_id": "ORD-45678",
+    "customer_name": "Charlie Brown",
+    "status": "shipped",
+    "items": [
+      {
+        "product_id": "p_003",
+        "quantity": 1
+      }
+    ],
+    "delivery_date": "2026-03-05"
+  },
+  {
+    "order_id": "ORD-11122",
+    "customer_name": "Diana Prince",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": "p_002",
+        "quantity": 1
+      },
+      {
+        "product_id": "p_011",
+        "quantity": 2
+      }
+    ],
+    "delivery_date": "2026-03-01"
+  },
+  {
+    "order_id": "ORD-33344",
+    "customer_name": "Evan Wright",
+    "status": "processing",
+    "items": [
+      {
+        "product_id": "p_010",
+        "quantity": 2
+      }
+    ],
+    "delivery_date": null
+  },
+  {
+    "order_id": "ORD-55566",
+    "customer_name": "Fiona Gallagher",
+    "status": "delivered",
+    "items": [
+      {
+        "product_id": "p_004",
+        "quantity": 1
+      },
+      {
+        "product_id": "p_007",
+        "quantity": 1
+      }
+    ],
+    "delivery_date": "2026-02-18"
+  }
+]

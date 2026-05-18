@@ -1,0 +1,79 @@
+[
+  {
+    "id": "p_001",
+    "name": "Wireless Ergonomic Mouse",
+    "description": "A comfortable wireless mouse with adjustable DPI and ergonomic design.",
+    "price": 29.99,
+    "stock_count": 150
+  },
+  {
+    "id": "p_002",
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with tactile blue switches.",
+    "price": 89.50,
+    "stock_count": 45
+  },
+  {
+    "id": "p_003",
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation and 30-hour battery life.",
+    "price": 199.99,
+    "stock_count": 80
+  },
+  {
+    "id": "p_004",
+    "name": "USB-C Hub",
+    "description": "7-in-1 USB-C hub with HDMI, SD card reader, and 100W power delivery.",
+    "price": 45.00,
+    "stock_count": 210
+  },
+  {
+    "id": "p_005",
+    "name": "27-inch 4K Monitor",
+    "description": "IPS panel 4K monitor with ultra-thin bezels and color accuracy.",
+    "price": 349.99,
+    "stock_count": 25
+  },
+  {
+    "id": "p_006",
+    "name": "Adjustable Laptop Stand",
+    "description": "Aluminum alloy laptop stand, adjustable height and angle.",
+    "price": 35.99,
+    "stock_count": 110
+  },
+  {
+    "id": "p_007",
+    "name": "Webcam 1080p",
+    "description": "HD webcam with built-in microphone and privacy cover.",
+    "price": 49.99,
+    "stock_count": 65
+  },
+  {
+    "id": "p_008",
+    "name": "Desk Pad",
+    "description": "Large PU leather desk pad, waterproof and easy to clean.",
+    "price": 19.99,
+    "stock_count": 300
+  },
+  {
+    "id": "p_009",
+    "name": "Wireless Charging Pad",
+    "description": "Fast 15W wireless charger compatible with Qi-enabled devices.",
+    "price": 24.50,
+    "stock_count": 85
+  },
+  {
+    "id": "p_010",
+    "name": "External SSD 1TB",
+    "description": "Portable NVMe SSD with speeds up to 1050MB/s.",
+    "price": 129.99,
+    "stock_count": 40
+  },
+  {
+    "id": "p_011",
+    "name": "Cable Management Kit",
+    "description": "Includes cable sleeves, clips, and ties to organize your desk.",
+    "price": 15.99,
+    "stock_count": 180
+  }
+]
